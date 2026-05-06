@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260506111819Q6LM86</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260506111819PLF41Z</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>De lectores a creadores: el poder de narrar</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Ángeles Ramos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto se centra en la creación de un texto narrativo vinculado a la realidad del alumnado. Deberán crear un cuento y después digitalizarlo con la app de Flipsnack</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777983129132</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>eae2f1c0-5baf-4a8c-b69f-8ac968af4568</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Licencias y seguridad</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Licencias y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>eae2f1c0-5baf-4a8c-b69f-8ac968af4568</odePageId>
+      <odeBlockId>block-1778057550299-yt8msagx7</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>eae2f1c0-5baf-4a8c-b69f-8ac968af4568</odePageId>
+          <odeBlockId>block-1778057550299-yt8msagx7</odeBlockId>
+          <odeIdeviceId>idevice-1778057550296-wacc8q0ie</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía educativa de licencias y seguridad.png" width="800" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778057550296-wacc8q0ie","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía educativa de licencias y seguridad.png\" width=\"800\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777983400255-n2pzrcwhg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía de profes</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía de profes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía de profes</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777983400255-n2pzrcwhg</odePageId>
+      <odeBlockId>block-1777983955341-be8anq1sx</odeBlockId>
+      <blockName>Información para profes</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777983400255-n2pzrcwhg</odePageId>
+          <odeBlockId>block-1777983955341-be8anq1sx</odeBlockId>
+          <odeIdeviceId>idevice-1777983955338-6zcuown52</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta parte, se explicará el contenido curricular del proyecto</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777983955338-6zcuown52","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta parte, se explicará el contenido curricular del proyecto</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777983942565-hwhbtj1ls</odePageId>
+  <odeParentPageId>page-1777983400255-n2pzrcwhg</odeParentPageId>
+  <pageName>Objetivos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777983942565-hwhbtj1ls</odePageId>
+      <odeBlockId>block-1777983614434-zo6nd9jfi</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777983942565-hwhbtj1ls</odePageId>
+          <odeBlockId>block-1777983614434-zo6nd9jfi</odeBlockId>
+          <odeIdeviceId>idevice-1777983614431-xrbzpdt2t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/85a4bedb-789e-4a47-a59f-4583fdc6d72e.png" width="890" height="1335" alt="" />Los principales objetivos de esta propuesta: </p>
+<p>Comprenderá las características de los textos narrativos (estructura, narrador, personaje, tiempo y espacio).<br />Desarrollará habilidades de lectura crítica de relatos.<br />Producirá textos propios aplicando coherencia y cohesión, corrección gramatical y ortográfica, creatividad y pensamiento crítico.<br />Utilizarán herramientas digitales para crear contenidos, compartir sus producciones y animar su propia creación con Flipsnack.<br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777983614431-xrbzpdt2t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/85a4bedb-789e-4a47-a59f-4583fdc6d72e.png\" width=\"890\" height=\"1335\" alt=\"\" />Los principales objetivos de esta propuesta: </p>\n<p>Comprenderá las características de los textos narrativos (estructura, narrador, personaje, tiempo y espacio).<br />Desarrollará habilidades de lectura crítica de relatos.<br />Producirá textos propios aplicando coherencia y cohesión, corrección gramatical y ortográfica, creatividad y pensamiento crítico.<br />Utilizarán herramientas digitales para crear contenidos, compartir sus producciones y animar su propia creación con Flipsnack.<br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777984021355-dp5j3c21f</odePageId>
+  <odeParentPageId>page-1777983400255-n2pzrcwhg</odeParentPageId>
+  <pageName>Competencias específicas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777984021355-dp5j3c21f</odePageId>
+      <odeBlockId>block-1777984416408-j1jtciqza</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777984021355-dp5j3c21f</odePageId>
+          <odeBlockId>block-1777984416408-j1jtciqza</odeBlockId>
+          <odeIdeviceId>idevice-1777984416407-oqyr71bm6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/competencias.png" width="1024" height="1536" alt="" />Competencia específica 3: Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</p>
+<p>Competencia específica 4: Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, reconociendo el sentido global y las ideas principales y secundarias, identificando la intención del emisor, reflexionando sobre el contenido y la forma y evaluando su calidad y fiabilidad, para dar respuesta a necesidades e intereses comunicativos diversos y para construir conocimiento</p>
+<p>Competencia específica 5: Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas</p>
+<p>Competencia específica 6: Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual.</p>
+<p>Competencia específica 8: Leer, interpretar y valorar obras o fragmentos literarios del patrimonio andaluz, nacional y universal, utilizando un metalenguaje específico y movilizando la experiencia biográfica y los conocimientos literarios y culturales que permiten establecer vínculos entre textos diversos y con otras manifestaciones artísticas, para conformar un mapa cultural, para ensanchar las posibilidades de disfrute de la literatura y para crear textos de intención literaria</p>
+<p>Competencia específica 9: Movilizar el conocimiento sobre la estructura de la lengua y sus usos y reflexionar de manera progresivamente autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conciencia lingüística, para aumentar el repertorio comunicativo y para mejorar las destrezas tanto de producción oral y escrita como de comprensión e interpretación crítica. </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777984416407-oqyr71bm6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/competencias.png\" width=\"1024\" height=\"1536\" alt=\"\" />Competencia específica 3: Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</p>\n<p>Competencia específica 4: Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, reconociendo el sentido global y las ideas principales y secundarias, identificando la intención del emisor, reflexionando sobre el contenido y la forma y evaluando su calidad y fiabilidad, para dar respuesta a necesidades e intereses comunicativos diversos y para construir conocimiento</p>\n<p>Competencia específica 5: Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas</p>\n<p>Competencia específica 6: Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual.</p>\n<p>Competencia específica 8: Leer, interpretar y valorar obras o fragmentos literarios del patrimonio andaluz, nacional y universal, utilizando un metalenguaje específico y movilizando la experiencia biográfica y los conocimientos literarios y culturales que permiten establecer vínculos entre textos diversos y con otras manifestaciones artísticas, para conformar un mapa cultural, para ensanchar las posibilidades de disfrute de la literatura y para crear textos de intención literaria</p>\n<p>Competencia específica 9: Movilizar el conocimiento sobre la estructura de la lengua y sus usos y reflexionar de manera progresivamente autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conciencia lingüística, para aumentar el repertorio comunicativo y para mejorar las destrezas tanto de producción oral y escrita como de comprensión e interpretación crítica. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777983418765-noftpfgvi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778057611130-7h9qf10n7</odePageId>
+  <odeParentPageId>page-1777983418765-noftpfgvi</odeParentPageId>
+  <pageName>Descripción y centro interés</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción y centro interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción y centro interés</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778057611130-7h9qf10n7</odePageId>
+      <odeBlockId>block-1778057833288-68u8n7nvl</odeBlockId>
+      <blockName>¿Qué voy a hacer y por qué?</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778057611130-7h9qf10n7</odePageId>
+          <odeBlockId>block-1778057833288-68u8n7nvl</odeBlockId>
+          <odeIdeviceId>idevice-1778057833285-wifw9ivpb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto se centra en la creación de textos narrativos (cuentos, microrrelatos) vinculados a la realidad del alumnado, utilizando herramientas digitales para fomentar la creatividad, el pensamiento crítico y la competencia comunicativa.</p>
+<p>La creación literaria y la comprensión textual en 2º ESO son fundamentales porque favorecen el desarrollo de la competencia comunicativa, el pensamiento crítico y la expresión personal en una etapa clave como el inicio de la adolescencia. </p>
+<p>Este proyecto permite al alumnado comprender cómo funcionan los textos narrativos y desarrollar una lectura crítica, ayudándoles a interpretar y reflexionar sobre su realidad. A su vez, la escritura de relatos propios fomenta la creatividad, la organización de ideas y el uso correcto de la lengua española. </p>
+<p>Además, el uso de herramientas digitales como Flipsnack aumenta la motivación y potencia la competencia digital del alumnado. </p>
+<p>En conjunto, este proyecto promueve un aprendizaje activo y significativo, donde el alumno mejora sus habilidades lingüísticas mientras se expresa y piensa de forma crítica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778057833285-wifw9ivpb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto se centra en la creación de textos narrativos (cuentos, microrrelatos) vinculados a la realidad del alumnado, utilizando herramientas digitales para fomentar la creatividad, el pensamiento crítico y la competencia comunicativa.</p>\n<p>La creación literaria y la comprensión textual en 2º ESO son fundamentales porque favorecen el desarrollo de la competencia comunicativa, el pensamiento crítico y la expresión personal en una etapa clave como el inicio de la adolescencia. </p>\n<p>Este proyecto permite al alumnado comprender cómo funcionan los textos narrativos y desarrollar una lectura crítica, ayudándoles a interpretar y reflexionar sobre su realidad. A su vez, la escritura de relatos propios fomenta la creatividad, la organización de ideas y el uso correcto de la lengua española. </p>\n<p>Además, el uso de herramientas digitales como Flipsnack aumenta la motivación y potencia la competencia digital del alumnado. </p>\n<p>En conjunto, este proyecto promueve un aprendizaje activo y significativo, donde el alumno mejora sus habilidades lingüísticas mientras se expresa y piensa de forma crítica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778057911468-7cg4xfoym</odePageId>
+  <odeParentPageId>page-1777983418765-noftpfgvi</odeParentPageId>
+  <pageName>Herramientas digitales</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778057911468-7cg4xfoym</odePageId>
+      <odeBlockId>block-1778057987191-aaep3haj7</odeBlockId>
+      <blockName>Herramientas que vamos a utilizar</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778057911468-7cg4xfoym</odePageId>
+          <odeBlockId>block-1778057987191-aaep3haj7</odeBlockId>
+          <odeIdeviceId>idevice-1778057987188-iig715dmg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la situación de aprendizaje “De lectores a creadores: el poder de narrar”, correspondiente a la materia de Lengua Castellana y Literatura de 2º de ESO, se propone el uso de diversas herramientas digitales con el objetivo de que el alumnado elabore un producto final creativo: un relato original presentado en formato digital. La finalidad principal del uso de estas herramientas es favorecer el desarrollo de la competencia comunicativa mediante la creación de textos narrativos, potenciando al mismo tiempo la creatividad, el pensamiento crítico y la capacidad de expresión escrita, así como el desarrollo de la competencia digital.</p>
+<p>En primer lugar, se utilizará Flipsnack como herramienta principal para la creación y presentación del relato digital, ya que permite diseñar publicaciones interactivas en formato de libro o revista, integrando texto, imágenes y elementos visuales de forma atractiva. Su uso se justifica por su carácter intuitivo, su potencial motivador y su adecuación al nivel del alumnado de 2º de ESO, que puede transformar sus producciones escritas en un producto final visualmente cuidado y significativo.</p>
+<p>De manera complementaria, se empleará Canva para la elaboración de recursos visuales como portadas, ilustraciones o esquemas narrativos, que ayuden al alumnado a organizar sus ideas y enriquecer la presentación de sus textos. Esta herramienta se selecciona por su facilidad de uso y su capacidad para fomentar la creatividad y la expresión visual.</p>
+<p>Asimismo, Google Drive se utilizará como espacio de trabajo colaborativo para la redacción, revisión y organización de los textos, favoreciendo el trabajo en grupo, la coevaluación y el seguimiento del proceso de escritura por parte del docente. Finalmente, Moodle servirá como plataforma de gestión del proyecto, desde la cual se proporcionarán instrucciones, materiales de apoyo, rúbricas de evaluación y se realizará el seguimiento de las distintas fases de la situación de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778057987188-iig715dmg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la situación de aprendizaje “De lectores a creadores: el poder de narrar”, correspondiente a la materia de Lengua Castellana y Literatura de 2º de ESO, se propone el uso de diversas herramientas digitales con el objetivo de que el alumnado elabore un producto final creativo: un relato original presentado en formato digital. La finalidad principal del uso de estas herramientas es favorecer el desarrollo de la competencia comunicativa mediante la creación de textos narrativos, potenciando al mismo tiempo la creatividad, el pensamiento crítico y la capacidad de expresión escrita, así como el desarrollo de la competencia digital.</p>\n<p>En primer lugar, se utilizará Flipsnack como herramienta principal para la creación y presentación del relato digital, ya que permite diseñar publicaciones interactivas en formato de libro o revista, integrando texto, imágenes y elementos visuales de forma atractiva. Su uso se justifica por su carácter intuitivo, su potencial motivador y su adecuación al nivel del alumnado de 2º de ESO, que puede transformar sus producciones escritas en un producto final visualmente cuidado y significativo.</p>\n<p>De manera complementaria, se empleará Canva para la elaboración de recursos visuales como portadas, ilustraciones o esquemas narrativos, que ayuden al alumnado a organizar sus ideas y enriquecer la presentación de sus textos. Esta herramienta se selecciona por su facilidad de uso y su capacidad para fomentar la creatividad y la expresión visual.</p>\n<p>Asimismo, Google Drive se utilizará como espacio de trabajo colaborativo para la redacción, revisión y organización de los textos, favoreciendo el trabajo en grupo, la coevaluación y el seguimiento del proceso de escritura por parte del docente. Finalmente, Moodle servirá como plataforma de gestión del proyecto, desde la cual se proporcionarán instrucciones, materiales de apoyo, rúbricas de evaluación y se realizará el seguimiento de las distintas fases de la situación de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778058049987-nbyykm6lf</odePageId>
+  <odeParentPageId>page-1777983418765-noftpfgvi</odeParentPageId>
+  <pageName>¿Por dónde empezar?</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Por dónde empezar?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778058049987-nbyykm6lf</odePageId>
+      <odeBlockId>block-1778058053607-7qhv2vq6f</odeBlockId>
+      <blockName>Herramientas de información</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778058049987-nbyykm6lf</odePageId>
+          <odeBlockId>block-1778058053607-7qhv2vq6f</odeBlockId>
+          <odeIdeviceId>idevice-1778058053604-6udfz53ip</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAAfOitQUAA41-5EX6NA==" title="El texto narrativo">Panel de Lengua</a> y <a href="https://padlet.com/mramcan1110/el-texto-narrativo-ww2lf8b1tyk13ndc" title="El texto narrativo">El texto narrativo</a></p>
+<p>Pincha en estos dos enlaces y descubrirás más información que te ayudará a empezar. </p>
+<p>Lo principal saber que es un texto narrativo y el género narrativo para realizar el cuento interactivo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778058053604-6udfz53ip","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAAfOitQUAA41-5EX6NA==\" title=\"El texto narrativo\">Panel de Lengua</a> y <a href=\"https://padlet.com/mramcan1110/el-texto-narrativo-ww2lf8b1tyk13ndc\" title=\"El texto narrativo\">El texto narrativo</a></p>\n<p>Pincha en estos dos enlaces y descubrirás más información que te ayudará a empezar. </p>\n<p>Lo principal saber que es un texto narrativo y el género narrativo para realizar el cuento interactivo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778058395143-3a369qbp5</odePageId>
+  <odeParentPageId>page-1777983418765-noftpfgvi</odeParentPageId>
+  <pageName>Nos organizamos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos organizamos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778058395143-3a369qbp5</odePageId>
+      <odeBlockId>block-1778058397430-c7z72xgmh</odeBlockId>
+      <blockName>Organización en un abrir y cerrar de ojos</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778058395143-3a369qbp5</odePageId>
+          <odeBlockId>block-1778058397430-c7z72xgmh</odeBlockId>
+          <odeIdeviceId>idevice-1778058397427-8u7u31ab9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Mira el siguiente mapa conceptual para resolver posibles dudas de manera rápida<img src="{{context_path}}/content/resources/Solución del problema.png" title="¿Cómo creamos un cuento?" width="890" height="501" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778058397427-8u7u31ab9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Mira el siguiente mapa conceptual para resolver posibles dudas de manera rápida<img src=\"{{context_path}}/content/resources/Solución del problema.png\" title=\"¿Cómo creamos un cuento?\" width=\"890\" height=\"501\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778058569138-wd79ublet</odePageId>
+  <odeParentPageId>page-1777983418765-noftpfgvi</odeParentPageId>
+  <pageName>Tarea y criterios</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea y criterios</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778058569138-wd79ublet</odePageId>
+      <odeBlockId>block-1778058572289-t2rexiemr</odeBlockId>
+      <blockName>¿Qué criterios utilizamos para evaluar las tareas?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778058569138-wd79ublet</odePageId>
+          <odeBlockId>block-1778058572289-t2rexiemr</odeBlockId>
+          <odeIdeviceId>idevice-1778058572288-5lr3fqrje</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tabla puedes consultar las distintas tareas que vas a desarrollar para llegar a tu meta: tu cuento interactivo. Además, te relaciono cada tarea con los criterios de evaluación asociados a la misma.</p>
+<p><img src="{{context_path}}/content/resources/ChatGPT Image 6 may 2026, 11_11_46.png" title="Tareas y criterios" width="890" height="488" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778058572288-5lr3fqrje","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tabla puedes consultar las distintas tareas que vas a desarrollar para llegar a tu meta: tu cuento interactivo. Además, te relaciono cada tarea con los criterios de evaluación asociados a la misma.</p>\n<p><img src=\"{{context_path}}/content/resources/ChatGPT Image 6 may 2026, 11_11_46.png\" title=\"Tareas y criterios\" width=\"890\" height=\"488\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778058798303-lc84nwcok</odePageId>
+  <odeParentPageId>page-1777983418765-noftpfgvi</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778058798303-lc84nwcok</odePageId>
+      <odeBlockId>block-1778058800722-zada57dt2</odeBlockId>
+      <blockName>¿Con qué evaluamos?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778058798303-lc84nwcok</odePageId>
+          <odeBlockId>block-1778058800722-zada57dt2</odeBlockId>
+          <odeIdeviceId>idevice-1778058800720-fhkgy98u4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la presente Situación de Aprendizaje se emplean distintos instrumentos de evaluación con el fin de valorar de forma competencial el proceso de enseñanza-aprendizaje del alumnado de 2º ESO. A continuación, se describen tres instrumentos principales, así como su aplicación, finalidad y uso pedagógico de la información obtenida.</p>
+<p>1.- Rúbrica de evaluación del cuento. </p>
+<p>La rúbrica será el instrumento principal de evaluación del producto final realizado con Flipsnack. Evaluando: coherencia y cohesión del texto narrativo , estructura del cuento, corrección ortográfica y gramatical, creatividad , uso de recursos digitales e interactividad. </p>
+<p>Pero, sobre todo, permite calificar el producto final y ofrecer retroalimentación detallada sobre el desempeño del alumnado.</p>
+<p> </p>
+<p>2.- Diana de autoevaluación y coevaluación</p>
+<p>Instrumento visual de reflexión para valorar el proceso de aprendizaje. Evaluando: participación , trabajo cooperativo, creatividad, uso de herramientas digitales e implicación en el proyecto.</p>
+<p>Sobre todo, favorece la autorreflexión y la comparación entre autoevaluación y evaluación docente.</p>
+<p> </p>
+<p>3.- Lista de cotejo del proceso de escritura</p>
+<p>La lista de cotejo se utilizará para realizar un seguimiento sistemático del proceso de elaboración del cuento, especialmente durante las fases de planificación, redacción y revisión del texto en soporte digital (Google Docs). Evaluando: la realización un esquema previo del cuento, la estructura narrativa (inicio, nudo y desenlace), las normas básicas de ortografía, revisión y mejora el texto tras la retroalimentación y la incorporación mejoras sugeridas por el docente o compañeros. </p>
+<p>Este instrumento no solo tiene función evaluadora, sino también reguladora del aprendizaje, ya que permite al alumnado conocer qué aspectos debe mejorar antes de llegar al producto final.</p>
+<p> </p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778058800720-fhkgy98u4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la presente Situación de Aprendizaje se emplean distintos instrumentos de evaluación con el fin de valorar de forma competencial el proceso de enseñanza-aprendizaje del alumnado de 2º ESO. A continuación, se describen tres instrumentos principales, así como su aplicación, finalidad y uso pedagógico de la información obtenida.</p>\n<p>1.- Rúbrica de evaluación del cuento. </p>\n<p>La rúbrica será el instrumento principal de evaluación del producto final realizado con Flipsnack. Evaluando: coherencia y cohesión del texto narrativo , estructura del cuento, corrección ortográfica y gramatical, creatividad , uso de recursos digitales e interactividad. </p>\n<p>Pero, sobre todo, permite calificar el producto final y ofrecer retroalimentación detallada sobre el desempeño del alumnado.</p>\n<p> </p>\n<p>2.- Diana de autoevaluación y coevaluación</p>\n<p>Instrumento visual de reflexión para valorar el proceso de aprendizaje. Evaluando: participación , trabajo cooperativo, creatividad, uso de herramientas digitales e implicación en el proyecto.</p>\n<p>Sobre todo, favorece la autorreflexión y la comparación entre autoevaluación y evaluación docente.</p>\n<p> </p>\n<p>3.- Lista de cotejo del proceso de escritura</p>\n<p>La lista de cotejo se utilizará para realizar un seguimiento sistemático del proceso de elaboración del cuento, especialmente durante las fases de planificación, redacción y revisión del texto en soporte digital (Google Docs). Evaluando: la realización un esquema previo del cuento, la estructura narrativa (inicio, nudo y desenlace), las normas básicas de ortografía, revisión y mejora el texto tras la retroalimentación y la incorporación mejoras sugeridas por el docente o compañeros. </p>\n<p>Este instrumento no solo tiene función evaluadora, sino también reguladora del aprendizaje, ya que permite al alumnado conocer qué aspectos debe mejorar antes de llegar al producto final.</p>\n<p> </p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778058798303-lc84nwcok</odePageId>
+      <odeBlockId>block-1778058944455-79cdq5t1i</odeBlockId>
+      <blockName>Instrumentos</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778058798303-lc84nwcok</odePageId>
+          <odeBlockId>block-1778058944455-79cdq5t1i</odeBlockId>
+          <odeIdeviceId>idevice-1778058944452-sv4x5d3uy</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778058944452-sv4x5d3uy" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.43.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.43.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778058944452-sv4x5d3uy" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.34.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.34.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1778058944452-sv4x5d3uy" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.22.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.22.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778058944452-sv4x5d3uy","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.43.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.43.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.34.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.34.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.22.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-06 a las 11.14.22.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778059036650-hcekg6d5c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778059036650-hcekg6d5c</odePageId>
+      <odeBlockId>block-1778059074638-x95w0azms</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778059036650-hcekg6d5c</odePageId>
+          <odeBlockId>block-1778059074638-x95w0azms</odeBlockId>
+          <odeIdeviceId>idevice-1778059074635-qzie9pumn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">De lectores a creadores: el poder de narrar</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto se centra en la creación de un texto narrativo vinculado a la realidad del alumnado. Deberán crear un cuento y después digitalizarlo con la app de Flipsnack</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María Ángeles Ramos</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
